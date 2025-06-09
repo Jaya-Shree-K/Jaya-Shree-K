@@ -1,9 +1,13 @@
 ## Hi there 👋
-💻 Frontend Developer | React Specialist
-🎯 6+ years in web development | Focused on ReactJS, JavaScript, and UI/UX
-⚙️ Skilled in HTML5, CSS3, JavaScript (ES6+), React, AngularJS
-🧠 Quick learner | Problem-solver | Passionate about clean code
-📍 India | Exploring opportunities in freelance & senior frontend roles
+-💻 Frontend Developer | React Specialist
+
+-🎯 6+ years in web development | Focused on ReactJS, JavaScript, and UI/UX
+
+-⚙️ Skilled in HTML5, CSS3, JavaScript (ES6+), React, AngularJS
+
+-🧠 Quick learner | Problem-solver | Passionate about clean code
+
+-📍 India | Exploring opportunities in freelance & senior frontend roles
 
 <!--
 **Jaya-Shree-K/Jaya-Shree-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
